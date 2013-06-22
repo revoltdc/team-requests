@@ -1,4 +1,9 @@
-team-requests
-=============
+# Team Requests
 
-Want a team repository (collaboration space) for #RevoltDC? Simply [open an issue](https://github.com/revoltdc/team-requests/issues/new) and include your team name and members (GitHub user name).
+## Want a team repository (collaboration space) for #RevoltDC? 
+
+Simply [open an issue](https://github.com/revoltdc/team-requests/issues/new).
+
+*Be sure to include your team name and members (GitHub user names).*
+
+Happy hacking!
